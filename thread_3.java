@@ -16,3 +16,9 @@ public class thread_3 {
         System.out.println(t1);
     }
 }
+
+/*output:-
+            Bye        
+            Thread  
+            Thread[Thread-0,5,main]                                                                                                       
+*/
