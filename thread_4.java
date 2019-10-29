@@ -19,3 +19,8 @@ public class thread_4 {
         System.out.println("Bye");
     }
 }
+
+/* output:-
+            Bye
+            Thread
+*/
