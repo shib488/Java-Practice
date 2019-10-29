@@ -15,7 +15,12 @@ public class thread_2 {
         System.out.println(t1);
     }
 }
-
+/*output:-
+            Bye                                                                                                                           
+            Thread[Thread-0,5,main]                                                                                                       
+            Thread    
+*/
+         
 // first executes bye and then thread due to time taken in switching.
 
 // problem:- simplest code we can't do multiple inheritence
